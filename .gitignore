@@ -1,2 +1,6 @@
 vcap.json
+__pycache__
+venv
+.vscode
+studio.code-workspace
 
